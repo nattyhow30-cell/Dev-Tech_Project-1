@@ -8,7 +8,7 @@ It’s a simple, responsive design built entirely with **HTML** and **CSS** to d
 
 ## 🚀 Live Demo
 Check out the live version here:  
-👉 
+👉 https://nattyhow30-cell.github.io/Dev-Tech_Project-1/
 
 ## 🧠 Features
 - Responsive design (works on mobile, tablet, and desktop)
